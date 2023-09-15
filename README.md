@@ -1,2 +1,2 @@
 # Ejercicios-Katas
-Ejercicios de https://docs.google.com/document/d/1QnmgS9Uj6qmiDuwds_MXlgfirBvVB8op/edit
+Ejercicio 1 :https://www.codewars.com/kata/555086d53eac039a2a000083
