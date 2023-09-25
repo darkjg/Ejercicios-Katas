@@ -8,3 +8,6 @@
         Ejercicio 6: https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
         Ejercicio 7: https://www.codewars.com/kata/523b66342d0c301ae400003b
         Ejercicio 8: https://www.codewars.com/kata/5761a717780f8950ce001473
+
+    #Operar con arrays:
+        Ejercicio 9: https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
