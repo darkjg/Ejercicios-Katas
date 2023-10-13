@@ -12,3 +12,6 @@
     #Operar con arrays:
         Ejercicio 9: https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
         Ejercicio 10:https://www.codewars.com/kata/5583090cbe83f4fd8c000051
+        Ejercicio 11:https://www.codewars.com/kata/57ab3c09bb994429df000a4a
+        Ejercicio 12:https://www.codewars.com/kata/56ec1e8492446a415e000b63
+		Ejercicio 13:https://www.codewars.com/kata/5a00e05cc374cb34d100000d
